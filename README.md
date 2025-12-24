@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6f31d89-4d8b-4e33-b74f-5c31e0a3bb3c" alt="Demo GIF" width="600" />
+</p>
+
+
 # About Me:
+
 I am a Computer Science bachelor’s student at the University of Bristol, driven by a curiosity for understanding how things work at a fundamental level. I’m the type of person who continues studying after like a crazy person with no social life. I enjoy building fun, creative projects, often inspired by games, and I have a strong eye for front-end development and user experience. While I enjoy crafting engaging interfaces, I aspire to be a jack of all trades in programming, constantly expanding my skill set across the full stack. (I do have a social life but most of it revolves around sitting in front of a screen covered with bugs.)
 
 - I’m currently working on Smart booking platform for the staff at University of Bristol and a Character guessing game in the browser of the anime "Naruto"<br><br>
@@ -13,6 +19,5 @@ I am a Computer Science bachelor’s student at the University of Bristol, drive
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=otgon-erdene-otgonsukh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=otgon-erdene-otgonsukh&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=otgon-erdene-otgonsukh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=otgon-erdene-otgonsukh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
