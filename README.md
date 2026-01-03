@@ -9,7 +9,7 @@ I am a Computer Science bachelor’s student at the University of Bristol, drive
 
 I’m currently working on:
 - Smart booking platform for the staff at University of Bristol in collaboration with the ProLine taxi company.
-- Character guessing game in the browser of the anime "Naruto" using external API.
+- Character guessing game in the browser of the anime "Naruto" using external API with rogue-like health system, shinobi ranks and more.
 
 I’m currently learning and working with:
 - React.js, Next.js, Node and Jest
