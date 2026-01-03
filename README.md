@@ -8,8 +8,10 @@
 I am a Computer Science bachelor’s student at the University of Bristol, driven by a curiosity for understanding how things work at a fundamental level. I’m the type of person who continues studying after like a crazy person with no social life. I enjoy building fun, creative projects, often inspired by games, and I have a strong eye for front-end development and user experience. While I enjoy crafting engaging interfaces, I aspire to be a jack of all trades in programming, constantly expanding my skill set across the full stack. (I do have a social life but most of it revolves around sitting in front of a screen covered with bugs.)
 
 I’m currently working on:
-- Smart booking platform for the staff at University of Bristol in collaboration with the ProLine taxi company.
-- Character guessing game in the browser of the anime "Naruto" using external API with rogue-like health system, shinobi ranks and more.
+
+- <img width="30" height="30" alt="favicon" src="https://github.com/user-attachments/assets/5e58d038-cbfc-4fac-a036-1ee02d8b7058" /> Smart booking platform for the staff at University of Bristol in collaboration with the ProLine taxi company.
+- <img width="60" height="90" alt="kakashi" src="https://github.com/user-attachments/assets/16e2a7a2-853c-4be7-b5b0-69f3e45dd118" /> Character guessing game in the browser of the anime "Naruto" using external API with rogue-like health system, shinobi ranks and more.
+
 
 I’m currently learning and working with:
 - React.js, Next.js, Node and Jest
