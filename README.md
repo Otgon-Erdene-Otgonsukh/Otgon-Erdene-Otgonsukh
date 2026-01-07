@@ -7,14 +7,41 @@
 
 I am a Computer Science bachelor’s student at the University of Bristol, driven by a curiosity for understanding how things work at a fundamental level. I’m the type of person who continues studying after like a crazy person with no social life. I enjoy building fun, creative projects, often inspired by games, and I have a strong eye for front-end development and user experience. While I enjoy crafting engaging interfaces, I aspire to be a jack of all trades in programming, constantly expanding my skill set across the full stack. (I do have a social life but most of it revolves around sitting in front of a screen covered with bugs.)
 
-I’m currently working on:
+## Currently Working On
 
-- <img width="30" height="30" alt="favicon" src="https://github.com/user-attachments/assets/5e58d038-cbfc-4fac-a036-1ee02d8b7058" /> Smart booking platform for the staff at University of Bristol in collaboration with the ProLine taxi company.
-- <img width="60" height="90" alt="kakashi" src="https://github.com/user-attachments/assets/16e2a7a2-853c-4be7-b5b0-69f3e45dd118" /> Character guessing game in the browser of the anime "Naruto" using external API with rogue-like health system, shinobi ranks and more.
+### 🚌 Smart Booking Platform
+<p align="center">
+  <img width="80" alt="favicon" src="https://github.com/user-attachments/assets/5e58d038-cbfc-4fac-a036-1ee02d8b7058" />
+</p>
 
+A smart booking platform for **University of Bristol staff**, developed in collaboration with **ProLine Taxi Company**, focused on efficiency, reliability, and ease of use.
 
-I’m currently learning and working with:
-- React.js, Next.js, Node and Jest
+---
+
+### 🍥 Naruto Character Guessing Game
+<p align="center">
+  <img width="150" height="1440" alt="transparent_logo" src="https://github.com/user-attachments/assets/6b109c7b-1a8d-4d49-a997-6ced23b770d3" />
+</p>
+
+A browser-based **Naruto character guessing game** using an external API, featuring:
+- Rogue-like health system
+- Shinobi ranks
+- Progression mechanics and scoring
+
+---
+
+### 🛡️ Dota 2 Hero Guessing Game
+<p align="center">
+  <img width="120" alt="dotadle" src="https://github.com/user-attachments/assets/b6dc2168-f17a-41b6-95f5-6f853da3d035" />
+</p>
+
+A **Dota 2 hero guessing game** built for the browser, powered by an external API and including:
+- Hero health mechanics
+- Scoring system
+- Ranking progression
+---
+## I’m currently learning and working with:
+- React.js, Next.js, Node, Tailwind, AWS and Jest.
 
 ## Other Interests
 Besides programming, as a side hobby, I do:
