@@ -11,7 +11,7 @@ I am a Computer Science bachelor’s student at the University of Bristol, drive
 
 ### 🚌 Smart Booking Platform
 <p align="center">
-  <img width="80" alt="favicon" src="https://github.com/user-attachments/assets/5e58d038-cbfc-4fac-a036-1ee02d8b7058" />
+  <img width="300" height="235" alt="ownlogo" src="https://github.com/user-attachments/assets/4405cea0-78ba-41e3-93a3-f106ae33b2a9" />
 </p>
 
 A smart booking platform for **University of Bristol staff**, developed in collaboration with **ProLine Taxi Company**, focused on efficiency, reliability, and ease of use.
