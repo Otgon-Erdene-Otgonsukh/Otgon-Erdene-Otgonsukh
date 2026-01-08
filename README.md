@@ -5,7 +5,7 @@
 
 # About Me:
 
-I am a Computer Science bachelor’s student at the University of Bristol, driven by a curiosity for understanding how things work at a fundamental level. I’m the type of person who continues studying after like a crazy person with no social life. I enjoy building fun, creative projects, often inspired by games, and I have a strong eye for front-end development and user experience. While I enjoy crafting engaging interfaces, I aspire to be a jack of all trades in programming, constantly expanding my skill set across the full stack. (I do have a social life but most of it revolves around sitting in front of a screen covered with bugs.)
+I am a Computer Science bachelor’s student at the University of Bristol, driven by a curiosity for understanding how things work at a fundamental level. I’m the type of person who continues studying after exams like a crazy person with no social life. I enjoy building fun, creative projects, often inspired by games, and I have a strong eye for front-end development and user experience. While I enjoy crafting engaging interfaces, I aspire to be a jack of all trades in programming, constantly expanding my skill set across the full stack. (I do have a social life but most of it revolves around sitting in front of a screen covered with bugs.). Life needs a reason to continue.
 
 ## Currently Working On
 
