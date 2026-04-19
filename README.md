@@ -11,7 +11,7 @@ I am a Computer Science bachelor’s student at the University of Bristol, drive
 
 ### 🚌 Smart Booking Platform
 <p align="center">
-  <img width="300" height="235" alt="ownlogo" src="https://github.com/user-attachments/assets/4405cea0-78ba-41e3-93a3-f106ae33b2a9" />
+  <img width="400" height="105" alt="ownlogo" src="https://github.com/user-attachments/assets/4405cea0-78ba-41e3-93a3-f106ae33b2a9" />
 </p>
 
 A smart booking platform for **University of Bristol staff**, developed in collaboration with **ProLine Taxi Company**, focused on efficiency, reliability, and ease of use.
@@ -20,7 +20,7 @@ A smart booking platform for **University of Bristol staff**, developed in colla
 
 ### 🍥 Naruto Character Guessing Game
 <p align="center">
-  <img width="150" height="1440" alt="transparent_logo" src="https://github.com/user-attachments/assets/6b109c7b-1a8d-4d49-a997-6ced23b770d3" />
+  <img width="200" height="90" alt="transparent_logo" src="https://github.com/user-attachments/assets/16465d02-742d-43a0-8d0d-c0b0843521e4" />
 </p>
 
 A browser-based **Naruto character guessing game** using an external API, featuring:
