@@ -11,7 +11,7 @@ I am a Computer Science bachelor’s student at the University of Bristol, drive
 
 ### 🚌 Smart Booking Platform
 <p align="center">
-  <img width="400" height="105" alt="ownlogo" src="https://github.com/user-attachments/assets/4405cea0-78ba-41e3-93a3-f106ae33b2a9" />
+  <img width="400" alt="ownlogo" src="https://github.com/user-attachments/assets/4405cea0-78ba-41e3-93a3-f106ae33b2a9" />
 </p>
 
 A smart booking platform for **University of Bristol staff**, developed in collaboration with **ProLine Taxi Company**, focused on efficiency, reliability, and ease of use.
@@ -20,7 +20,7 @@ A smart booking platform for **University of Bristol staff**, developed in colla
 
 ### 🍥 Naruto Character Guessing Game
 <p align="center">
-  <img width="200" height="90" alt="transparent_logo" src="https://github.com/user-attachments/assets/16465d02-742d-43a0-8d0d-c0b0843521e4" />
+  <img width="200" alt="transparent_logo" src="https://github.com/user-attachments/assets/16465d02-742d-43a0-8d0d-c0b0843521e4" />
 </p>
 
 A browser-based **Naruto character guessing game** using an external API, featuring:
@@ -32,7 +32,7 @@ A browser-based **Naruto character guessing game** using an external API, featur
 
 ### 🛡️ Dota 2 Hero Guessing Game
 <p align="center">
-  <img width="120" alt="dotadle" src="https://github.com/user-attachments/assets/b6dc2168-f17a-41b6-95f5-6f853da3d035" />
+  <img width="170" alt="dotadle" src="https://github.com/user-attachments/assets/b6dc2168-f17a-41b6-95f5-6f853da3d035" />
 </p>
 
 A **Dota 2 hero guessing game** built for the browser, powered by an external API and including:
