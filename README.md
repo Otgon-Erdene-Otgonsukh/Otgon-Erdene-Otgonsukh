@@ -11,10 +11,22 @@ I am a Computer Science bachelor’s student at the University of Bristol, drive
 
 ### 🚌 Smart Booking Platform
 <p align="center">
-  <img width="400" alt="ownlogo" src="https://github.com/user-attachments/assets/4405cea0-78ba-41e3-93a3-f106ae33b2a9" />
+  <img width="180" alt="0419" src="https://github.com/user-attachments/assets/715455d0-577c-49c1-9db4-de6c53e0e2eb" />
 </p>
 
-A smart booking platform for **University of Bristol staff**, developed in collaboration with **ProLine Taxi Company**, focused on efficiency, reliability, and ease of use.
+#### Project Overview
+
+A booking and account management platform to streamline how the University of Bristol (UoB) books and manages taxi and chauffeur services with **Proline Taxi**. The goal is to replace manual processes through emails and phone calls with a digital experience that is faster, more transparent, and easier to manage at scale while providing an intuitive and user-friendly interface suitable for non-technical individuals.
+
+#### Key Features
+
+- **Streamlined booking**: enter pick-up/drop-off, time, name, email, instant confirmation through email.
+- **Interactive map**: intuitive map component with routing, ETA and distance information.
+- **Automated data handling**: routing important booking details to the corresponding head/finance team of the relevant University department for approval.
+- **Real-time journey visibility**: live status changes and booking visibility.
+- **Informative dashboards**: data dashboards with numeric data and charts for analysis.
+- **CSV booking export:** convert and export booking information as CSV for management and data compiling. 
+- **Mobile friendly interface and integration**: the application is fully mobile responsive and can be installed on both mobile and desktop devices with push notifications.
 
 ---
 
