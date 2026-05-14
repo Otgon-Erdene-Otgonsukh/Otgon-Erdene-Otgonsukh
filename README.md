@@ -53,7 +53,11 @@ A **Dota 2 hero guessing game** built for the browser, powered by an external AP
 - Ranking progression
 ---
 ## I’m currently learning and working with:
-- React.js, Next.js, Node, Tailwind, AWS and Jest.
+- React.js, Next.js, Node, Tailwind, AWS, PWA and Jest.
+  
+Currently diving into deployment techniques by using AWS services including ECR for uploading docker images, ECS for container deployment, ALB for distributing traffic and domain attachment and IAM for managing access to services such as SES for email sending for the booking platform application and for the github workflows that automates the integrtion and deployment (CI & CD) for the booking platform as well.
+
+The repository for my biggest scale project which I worked in a team in collaboration with ProLine Taxi company located in the UK can be found in the **pinned repository** section further down which includes in depth description of the various technologies I have practiced in.
 
 ## Other Interests
 Besides programming, as a side hobby, I do:
