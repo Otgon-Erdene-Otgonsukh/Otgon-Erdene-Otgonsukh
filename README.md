@@ -14,6 +14,8 @@ I am a Computer Science bachelor’s student at the University of Bristol, drive
   <img width="180" alt="0419" src="https://github.com/user-attachments/assets/715455d0-577c-49c1-9db4-de6c53e0e2eb" />
 </p>
 
+Click [`here`](https://github.com/Otgon-Erdene-Otgonsukh/UoB-Proline-Taxi) to view repository
+
 #### Project Overview
 
 A booking and account management platform to streamline how the University of Bristol (UoB) books and manages taxi and chauffeur services with **Proline Taxi**. The goal is to replace manual processes through emails and phone calls with a digital experience that is faster, more transparent, and easier to manage at scale while providing an intuitive and user-friendly interface suitable for non-technical individuals.
@@ -40,6 +42,8 @@ A browser-based **Naruto character guessing game** using an external API, featur
 - Shinobi ranks
 - Progression mechanics and scoring
 
+Play it here: <a href="https://narutodleinfinite.vercel.app/">Narutodle Infinite</a>
+
 ---
 
 ### 🛡️ Dota 2 Hero Guessing Game
@@ -51,6 +55,9 @@ A **Dota 2 hero guessing game** built for the browser, powered by an external AP
 - Hero health mechanics
 - Scoring system
 - Ranking progression
+
+Play it here: <a href="https://dotadleinfinite.vercel.app/">Dotadle Infinite</a>
+
 ---
 ## I’m currently learning and working with:
 - React.js, Next.js, Node, Tailwind, AWS, PWA and Jest.
