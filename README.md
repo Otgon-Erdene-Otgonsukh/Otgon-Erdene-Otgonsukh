@@ -69,7 +69,31 @@ The repository for my biggest scale project which I worked in a team in collabor
 ## Other Interests
 Besides programming, as a side hobby, I do:
 - Video editing with CapCut and produce some anime short form content on my youtube channel.
-- Studies game design theory in my free time and have the inspiration to dive into Game Development in the near future.  
+- Studies game design theory in my free time and have the inspiration to dive into Game Development in the near future.
+
+#### If you are interested, you can click on the below videos to check them out.
+
+<a href="https://www.youtube.com/watch?v=zeJgn8snRw8">
+  <img
+    src="https://img.youtube.com/vi/zeJgn8snRw8/maxresdefault.jpg"
+    alt="Watch demo video"
+    width="300"
+  />
+</a>
+<a href="https://www.youtube.com/watch?v=m6j6Llh4TNI">
+  <img
+    src="https://img.youtube.com/vi/m6j6Llh4TNI/maxresdefault.jpg"
+    alt="Watch demo video"
+    width="300"
+  />
+</a>
+<a href="https://www.youtube.com/watch?v=PyTHNlR5Ivc">
+  <img
+    src="https://img.youtube.com/vi/PyTHNlR5Ivc/maxresdefault.jpg"
+    alt="Watch demo video"
+    width="300"
+  />
+</a>
 
 ##  Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@soggywaffles1336) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:otgonerdeneotgonsukh@gmail.com) 
