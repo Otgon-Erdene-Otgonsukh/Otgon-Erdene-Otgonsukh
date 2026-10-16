@@ -77,21 +77,21 @@ Besides programming, as a side hobby, I do:
   <img
     src="https://img.youtube.com/vi/zeJgn8snRw8/maxresdefault.jpg"
     alt="Watch demo video"
-    width="300"
+    width="250"
   />
 </a>
 <a href="https://www.youtube.com/watch?v=m6j6Llh4TNI">
   <img
     src="https://img.youtube.com/vi/m6j6Llh4TNI/maxresdefault.jpg"
     alt="Watch demo video"
-    width="300"
+    width="250"
   />
 </a>
 <a href="https://www.youtube.com/watch?v=PyTHNlR5Ivc">
   <img
     src="https://img.youtube.com/vi/PyTHNlR5Ivc/maxresdefault.jpg"
     alt="Watch demo video"
-    width="300"
+    width="250"
   />
 </a>
 
